@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php 
-    echo "Lieu thi an nhieu, ko lieu thi an it"
+    include("index.html");
     ?>
 </body>
 </html>
